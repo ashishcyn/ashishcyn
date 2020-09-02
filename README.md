@@ -42,8 +42,8 @@
 	<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishcyn&layout=compact&hide=html" alt="ashishcyn" /></p>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishcyn&layout=compact&hide=html" alt="ashishcyn" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishcyn&show_icons=true" alt="ashishcyn" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishcyn&show_icons=true" alt="ashishcyn" /></p>-->
 
 
